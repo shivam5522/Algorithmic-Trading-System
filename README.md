@@ -11,6 +11,7 @@ Welcome to the Algo Trading System! This repository contains an advanced algorit
 - 🤖 **Trading Strategies**: Execute multiple predefined trading strategies for Call Options (CE) and Put Options (PE).
 - 🛡 **Dynamic Stop-Loss Modification**: Stop-loss orders get adjusted based on real-time market movements.
 - 👥 **Multi-User Support**: Supports adding multiple users and can place orders for multiple users.
+- 📊 **Tradebooks**: Excel files to keep track of all orders and gains for each strategy.
 
 ## Requirements 📋
 
