@@ -1,0 +1,6 @@
+kiteconnect
+pandas
+selenium
+pyotp
+requests
+dotenv
